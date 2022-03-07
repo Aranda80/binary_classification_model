@@ -1,3 +1,5 @@
+![Binary Model](Images/Binary_model.png)
+
 # Binary Classification Model
 
 
